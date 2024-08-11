@@ -4,27 +4,27 @@
 #### DDOS官网：ddos.ai-cc.cc
 #### 云计算官网：www.mcyunidc.cn
 #### © 2024 MC云 版权所有
-#### 购买方式：闲鱼，淘宝，QQ，官网
-#### 闲鱼搜索 MC云_CN | 淘宝搜索 MC云 | QQ号 1317957427 | 
+#### 购买方式：闲鱼，QQ，官网
+#### 闲鱼搜索 MC云_CN | QQ号 1317957427 | 
 ---
 ### 戳链接直达活动专区：
 - 【香港云精选】https://www.mcyunidc.cn/cart?fid=2&gid=24
-- 【域名注册】https://www.mcyunidc.cn/addons
-- 【小云支付】https://pay.ai-cc.cc/
-- 【ChatGPT】https://openai-cn.chat/
+- 【106短信】https://sms.stay33.cn/
 
 ### 新品：
 
-- 香港活动最低28元/月续费原价！
-- 短信SMS活动最低4.5元100条！
-- 注册域名1年送短信余额100条买的越多送的越多！
-- ChatGPT，官网账号30天只需要140元可以保证不封！
+- 香港活动最低27元/月续费原价！
+- 短信SMS活动最低2.5元100条！ | 日常价：3元100条！
 
 #### 下载：[前往官网](https://ddos.ai-cc.cc)
 
-#### 文档：[点击查看](https://mc-yun.gitbook.io/ddos)
+#### 文档：[点击查看](https://wiki.mcyunidc.cn/ddos)
 
 ### 更新信息
+#### 4.0
+- 增加了Minecraft测压（需要安装Java）
+- 增加了自动登录
+- 增加了服务端和节点端
 #### 3.0
 - 增加了端口扫描
 - 增加了登录自动获取代理配置文件
